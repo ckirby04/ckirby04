@@ -19,6 +19,6 @@ transcriptomics for renal allograft rejection),
 [SwingScan](https://github.com/ckirby04/SwingScan) (pose estimation),
 [Nemesis](https://github.com/ckirby04/Nemesis) (poker EV simulation).
 
-Software engineering intern at Walmart Global Tech.
+Future Software engineer at Walmart Global Tech, Fall 2027.
 
 - crkirby@uark.edu
